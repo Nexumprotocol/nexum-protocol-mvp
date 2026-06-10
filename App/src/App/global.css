@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #0a0b14;
+  color: white;
+}
+
+/* Wallet adapter button overrides */
+.wallet-adapter-button {
+  font-family: inherit !important;
+}
